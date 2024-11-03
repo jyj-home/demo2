@@ -1,0 +1,6 @@
+{
+	"inputSpec": "openapi-gen-in-spec-petstore.yaml",
+	"generatorName": "typescript-fetch",
+	"outputDir": "openapi/ts-fetch",
+	"hideGenerationTimestamp": true
+}

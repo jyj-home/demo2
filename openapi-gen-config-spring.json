@@ -1,0 +1,7 @@
+{
+	"inputSpec": "openapi-gen-in-spec-petstore.yaml",
+	"generatorName": "spring",
+	"outputDir": "openapi/spring",
+	"interfaceOnly": true,
+	"hideGenerationTimestamp": true
+}
